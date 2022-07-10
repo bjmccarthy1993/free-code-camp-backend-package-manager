@@ -3,6 +3,7 @@
 	"author": "Benjamin McCarthy",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "practice", "backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
